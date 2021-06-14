@@ -1,3 +1,10 @@
+puede que este sea mi forma de practicar en git
+
+solo puedo aprender si practico continuanmente
+
+
+
+
 esta es mi carpeta para saber cual version 
 nueva tengo en git
 
