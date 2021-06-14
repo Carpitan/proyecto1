@@ -2,3 +2,5 @@ esta es mi carpeta para saber cual version
 nueva tengo en git
 
 primeros pasos en git
+
+soy primerizo en esto de la informatica y estoy teniendo aprendiendo en como hacer un commit
