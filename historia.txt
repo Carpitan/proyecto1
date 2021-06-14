@@ -1,0 +1,4 @@
+esta es mi carpeta para saber cual version 
+nueva tengo en git
+
+primeros pasos en git
